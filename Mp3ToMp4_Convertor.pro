@@ -25,7 +25,8 @@ HEADERS  += mainwindow.h \
 
 FORMS    += mainwindow.ui
 
-DISTFILES +=
+DISTFILES += \
+    README.md
 
 RESOURCES += \
     resources.qrc
