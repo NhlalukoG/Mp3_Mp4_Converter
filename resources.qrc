@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/scripts">
+        <file>convertor.sh</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Counting.gif</file>
+        <file>images/blur.jpeg</file>
+        <file>images/blur2.jpeg</file>
+        <file>images/gradient3.jpeg</file>
+        <file>images/blur4.jpg</file>
+        <file>images/blur5.jpg</file>
+    </qresource>
+    <qresource prefix="/binaries"/>
+</RCC>
